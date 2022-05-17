@@ -1,9 +1,9 @@
 ### Hi there, I'm Franco 👋
 
 ### Connect with me:
+<a href="https://www.linkedin.com/in/francociprian/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 [<img align="left" alt="eMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:franco_ciprian@hotmail.com)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/franco-ciprian-387231222/)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/franco.ciprian/)
 
 <br />

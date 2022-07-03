@@ -1,4 +1,4 @@
-### Hi there, I'm Franco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Franco <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/310/waving-hand_1f44b.png" width="30px">
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/francociprian/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br>

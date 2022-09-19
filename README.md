@@ -1,7 +1,9 @@
 ### Hi there, I'm Franco 👋
+<br>
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/francociprian/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br>
+<br>
 
 ## Technologies & Tools:<br>
 
@@ -14,3 +16,11 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+
+
+<br>
+<br>
+<p align="left">
+  <a href="https://github.com/francociprian"><img width="400" src="https://github-readme-stats.vercel.app/api?username=francociprian&show_icons=true&theme=calm">
+  <a href="[https://github.com/francociprian](https://github.com/francociprian)"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francociprian&langs_count=10&layout=compact&theme=calm">
+</p>

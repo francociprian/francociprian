@@ -24,3 +24,5 @@
   <a href="https://github.com/francociprian"><img width="400" src="https://github-readme-stats.vercel.app/api?username=francociprian&show_icons=true&theme=calm">
   <a href="[https://github.com/francociprian](https://github.com/francociprian)"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francociprian&langs_count=10&layout=compact&theme=calm">
 </p>
+
+![](https://hit.yhype.me/github/profile?user_id=90922464)

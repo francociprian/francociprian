@@ -1,7 +1,7 @@
-### Hi there, I'm Franco 👋
+### Hi i'm Franco 👋
 
 <p>
-Hi! I'm Franco Ciprian, a front-end developer with little back-end experience, mostly working with ReactJS. My taste for Design gave me a great sense of aesthetics, which is reflected in my projects. Looking forward to taking my first steps in the IT world, to be able to increase my knowledge by learning as much as possible.
+A front-end developer with little back-end experience, mostly working with ReactJS. My taste for Design gave me a great sense of aesthetics, which is reflected in my projects. Looking forward to taking my first steps in the IT world, to be able to increase my knowledge by learning as much as possible.
 </p>
 
 ### Connect with me:
